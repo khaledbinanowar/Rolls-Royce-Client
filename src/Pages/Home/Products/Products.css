@@ -1,0 +1,16 @@
+.card {
+  padding: 5px !important;
+  background-color: #07003b !important;
+  color: whitesmoke !important;
+}
+
+img.card-img-top {
+  border-radius: 5px !important;
+  
+  
+}
+.cart_btn {
+  background-color: rebeccapurple !important;
+  color: white !important;
+  padding: 6px 20px;
+}
